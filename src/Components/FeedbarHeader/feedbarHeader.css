@@ -1,0 +1,32 @@
+#feedBarHeader{
+  border:1px solid rgb(226, 211, 211);
+  padding:10px;
+ 
+ 
+}
+#img1{
+  height:50px;
+  width:50px;
+  border-radius: 50%;
+  padding:10px
+}
+#text2{
+  color: grey;
+  font-size: 20px;
+}
+#icon1{
+  color: rgb(108, 195, 224);
+}
+#button1{
+  background-color: #1DA1F2;
+  color:white;
+  border-radius: 30px;
+  font-weight: 900;
+}
+/* #home{
+  overflow: hidden;
+  position: fixed;
+  background-color: white;
+  
+  width: 100%;
+} */

@@ -1,0 +1,61 @@
+#text6{
+  font-weight: 900;
+}
+#text7{
+  color: grey;
+  padding-left: 50px;
+  margin-top:-10px;
+}
+#profileheader{
+  overflow: hidden;
+  position: sticky;
+  background-color: white;
+  width:100%;
+  top:55px
+}
+#backgroundImage{
+  background-image: url('https://cdn.wallpapersafari.com/29/22/UNDju1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width:100%;
+  height:200px;
+}
+#blank{
+  height:150px
+}
+#img5{
+  height:150px;
+  width: 150px;
+  border-radius: 50%;
+  padding:0px;
+  border: 5px solid white;
+}
+#imagepart{
+  height: 320px;
+}
+#edit{
+  margin-top: -70px;
+}
+#btn1{
+  border:1px solid black;
+  border-radius: 20px;
+  color: black;
+  font-weight: 900;
+}
+#text8{
+  color: grey;
+margin-top: -15px;
+  
+}
+#text10{
+  padding-right:30px;
+  color:grey;
+}
+#text11{
+  color:grey;
+  padding-right: 40px;
+}
+#text12{
+  font-weight: bold;
+}

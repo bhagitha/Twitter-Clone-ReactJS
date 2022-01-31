@@ -1,0 +1,24 @@
+
+#icon{
+  color: #1DA1F2;
+  font-size: 80px;
+}
+#twitter{
+  font-weight: 600;
+  font-size: 70px;
+}
+#box{
+  height:550px;
+  width:100%;
+  background-color: white;
+  padding: 40px;
+  box-shadow: 5px 5px 5px 5px grey;
+  border-radius: 10px;
+}
+
+
+
+#login{
+  text-align: center;
+  
+}

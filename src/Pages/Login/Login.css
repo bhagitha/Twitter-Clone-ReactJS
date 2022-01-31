@@ -1,0 +1,32 @@
+#bg4{
+  background-color: rgb(234, 239, 241);
+  height:720px
+}
+#blank2{
+  height:200px
+}
+#icon{
+  color: #1DA1F2;
+  font-size: 100px;
+}
+#text9{
+  font-weight: 300;
+  font-size: 30px;
+  font-family: monospace;
+}#twitter{
+  font-weight: 600;
+  font-size: 70px;
+}
+#box1{
+  height:400px;
+  width:100px;
+  background-color: white;
+  padding: 40px;
+  box-shadow: 5px 5px 5px 5px grey;
+  border-radius: 10px;
+}
+
+#forgot,#btn{
+  text-align: center;
+  
+}

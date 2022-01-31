@@ -1,0 +1,52 @@
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid #dcdee0;;
+  float: left;
+  width: 80%;
+  background: #dcdee0;;
+  border-radius: 0px 20px 20px 0px;
+  
+}
+
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 0px;
+  background: #dcdee0;
+  color: white;
+  font-size: 10px;
+  border: 1px solid #dcdee0;;
+  border-left: none;
+  cursor: pointer;
+  border-radius: 20px 0px 0px 20px;
+}
+
+form.example button:hover {
+  background: #dbdee0;
+}
+
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+#widgets
+{
+  /* width:400px; */
+        /* overflow: hidden;
+        position: fixed; */
+        
+}
+#icon5{
+  color: black;
+  font-size: 10px;
+}
+#rightHeader{
+  font-weight: bolder;
+  padding: 20px;
+}
+#rightBar{
+  background-color: #dbdee0;
+  border-radius: 20px;
+}

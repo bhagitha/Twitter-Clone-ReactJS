@@ -1,0 +1,72 @@
+#mySidenav{
+        margin: 0;
+        padding-left: 40px;
+
+
+}
+#mySidenav {
+  flex: 3;
+  height: calc(100vh - 50px);
+  overflow-y: scroll;
+  position: fixed;
+  top: 50px;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  display: none;
+}
+::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgb(179, 179, 179);
+}
+
+#bgs{
+  -ms-overflow-style: none;  
+  scrollbar-width: none;  
+ 
+}
+#bgs {
+  -ms-overflow-style: none;  
+  scrollbar-width: none;  
+}
+@media (max-width: 768px) {
+  #mySidenav{
+      display: none;
+      /* background-color: #1DA1F2; */
+      
+      
+  }
+}
+
+.iconColor{
+  color: #1DA1F2;
+  font-size: 40px;
+}
+i{
+  padding: 15px;
+  padding-bottom: 20px;
+}
+#text1{
+  
+  font-size: 20px;
+}
+#sideBarFull:hover{
+  border:none;
+  border-radius: 40px;;
+  background-color: lightgrey;
+}
+#tweetButton{
+  background-color:#1DA1F2 ;
+  border-radius: 40px;
+  text-align: center;
+  color: white;
+  padding: 10px;
+  width:150px
+}
+@media screen and (max-height: 450px) {
+  #mySidenav {padding-top: 15px;}
+  #mySidenav a {font-size: 18px;}
+}
